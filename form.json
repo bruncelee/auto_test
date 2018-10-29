@@ -1,0 +1,74 @@
+{"companyName":"自动化测试",
+    "groundOwnership":"01",
+    "rent":"1000.00",
+    "bizFormat":"02",
+    "postCode":"",
+    "bizArea":"0.00",
+    "areaType":"01",
+    "licStatus":"01",
+    "businessLicNo":"911323M112",
+    "envType":"03",
+    "isApplyLic":"0",
+    "orgUuid":"8aac00f154b7bc0d0154b7d90b1f0001",
+    "position":"纬度:30.287881,经度:120.153313",
+    "latitude":"30.287881",
+    "longitude":"120.153313",
+    "unlicenseReason":"02",
+    "isOnsale":"1",
+    "prov":"330000",
+    "city":"330400",
+    "areaCode":"330424",
+    "businessAddr":"经营场所地址经营场所地址经营场所地址经营场所地址",
+    "managerName":"XIAOMA",
+    "credNum":"",
+    "local-prov":"",
+    "local-city":"",
+    "personLocal":"",
+    "contactMobile":"18611876543",
+    "currentAddr":"XIANJUDI",
+    "retailerUuid":"34d865b0f0514146a47d8fd7c0037b95",
+    "loginname": "huxi_hz",
+    "password": "9",
+    "local-prov": 330000,
+    "local-city": 330100,
+    "personLocal": 330102,
+
+    "persons": [
+        {
+            "personName": "张三",
+            "contactMobile":"15800001111",
+            "credNum":"411323198610075814",
+            "personGender":"1",
+            "person-prov":330000,
+            "person-city":330100,
+            "personLocal":330102,
+            "personNative":"10301",
+            "currentAddr":"现住址",
+            "relationship":"02",
+            "credAddr":"身份证住址"
+        },
+        {
+            "personName": "李四",
+            "contactMobile":"19900001111",
+            "credNum":"411323198610075814",
+            "personGender":"2",
+            "person-prov":330000,
+            "person-city":330100,
+            "personLocal":330102,
+            "personNative":"10302",
+            "currentAddr":"现住址",
+            "relationship":"04",
+            "credAddr":"身份证住址"
+        }
+    ],
+    "stores": [
+        {
+            "storageName": "仓储名称1",
+            "storageAddress": "仓储地址1"
+        },
+        {
+            "storageName": "仓储名称2",
+            "storageAddress": "仓储地址2"
+        }
+    ]
+}
